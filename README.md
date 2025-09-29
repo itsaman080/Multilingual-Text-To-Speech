@@ -43,9 +43,23 @@ App1 is a **React-based, frontend-only** application that leverages the browser�
 3. It assigns **appropriate voices** based on the script.
 4. The browser speaks each segment sequentially using the **SpeechSynthesis API**.
 
-**Screenshot & Demo:**
-![App1 Screenshot](./App1_BrowserSpeechSynthesis_TTS_API/screenshot.png)
-*Demo video available inside the app folder.*
+---
+
+## 📸 Screenshot
+
+| Dashboard                     | 
+| ------------------------------- | 
+| ![Input](Screenshots/test1-1.png) |
+
+> 
+---
+
+## 🎬 Video Demo
+
+App1 in action:  
+[Demo Video](Screenshots/Demo.mp4)
+
+---
 
 **Usage:**
 
@@ -77,9 +91,23 @@ User Input → Frontend → Backend API → TTS Engine → Audio → Frontend Pl
 3. TTS engine generates audio, served by the backend.
 4. Frontend plays the audio for the user.
 
-**Screenshot & Demo:**
-![App2 Screenshot](./App2_Self-Deployed_OpenSource_TTS/screenshot.png)
-*Demo video available inside the app folder.*
+---
+
+## 📸 Screenshot
+
+| Dashboard                     | 
+| ------------------------------- | 
+| ![Input](Screenshots/test1-1.png) |
+
+> 
+---
+
+## 🎬 Video Demo
+
+App2 in action:  
+[Demo Video](Screenshots/Demo.mp4)
+
+---
 
 **Usage:**
 
@@ -188,15 +216,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to the open-source communities and tools that made this project possible:
-
 * [SpeechSynthesis API (Web Speech API)](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 * [Coqui TTS](https://github.com/coqui-ai/TTS)
 * [Mozilla TTS](https://github.com/mozilla/TTS)
 * [React.js](https://reactjs.org/)
 
-Your feedback and contributions are welcome!
 
 ---
 
-If you want, I can also help you with embedding screenshots or demo videos directly in the apps or updating README further. How’s this version for you?
