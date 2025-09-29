@@ -120,14 +120,12 @@ App2 in action:
 
 * React.js (Frontend)
 * SpeechSynthesis API (Browser TTS)
-* HTML / CSS / JavaScript
 
 **App2:**
 
 * React.js (Frontend)
-* Flask or Node.js (Backend API)
-* Open-source TTS engine (e.g., Coqui TTS, Mozilla TTS)
-* HTML / CSS / JavaScript
+* Flask (Backend API)
+* Open-source TTS engine (Coqui TTS)
 
 ---
 
@@ -138,8 +136,7 @@ Multilingual-Text-To-Speech/
 ├── App1_BrowserSpeechSynthesis_TTS_API/
 │   ├── src/                  # React source code
 │   ├── public/               # Static assets
-│   ├── package.json
-│   └── README.md
+│   └── package.json
 │
 ├── App2_Self-Deployed_OpenSource_TTS/
 │   ├── frontend/             # React frontend
@@ -210,12 +207,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Acknowledgments
+##  Acknowledgments
 
 * [SpeechSynthesis API (Web Speech API)](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 * [Coqui TTS](https://github.com/coqui-ai/TTS)
-* [Mozilla TTS](https://github.com/mozilla/TTS)
 * [React.js](https://reactjs.org/)
+* [Flask (Python Web Framework)](https://flask.palletsprojects.com/)
 
 
 ---
