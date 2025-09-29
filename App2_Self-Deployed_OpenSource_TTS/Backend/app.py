@@ -12,7 +12,7 @@ AUDIO_DIR = os.path.join("static", "audio")
 os.makedirs(AUDIO_DIR, exist_ok=True)
 
 # Load Coqui TTS model
-print("🔊 Loading Coqui TTS model...")
+print("Loading Coqui TTS model...")
 tts = TTS(model_name="tts_models/en/ljspeech/tacotron2-DDC", progress_bar=False, gpu=False)
 #tts_models--multilingual--multi-dataset--your_tts -> For all languages
 
