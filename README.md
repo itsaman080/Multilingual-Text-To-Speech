@@ -47,9 +47,7 @@ App1 is a **React-based, frontend-only** application that leverages the browser�
 
 ## 📸 Screenshot
 
-| Dashboard                     | 
-| ------------------------------- | 
-| ![Input](Screenshots/test1-1.png) |
+<table> <tr> <td><strong>Dashboard</strong></td> </tr> <tr> <td><img src="App1_BrowserSpeechSynthesis_TTS_API/App1.png" alt="App1 Screenshot" width="500"/></td> </tr> </table>
 
 > 
 ---
@@ -57,7 +55,7 @@ App1 is a **React-based, frontend-only** application that leverages the browser�
 ## 🎬 Video Demo
 
 App1 in action:  
-[Demo Video](Screenshots/Demo.mp4)
+[Demo Video](App1_BrowserSpeechSynthesis_TTS_API/App1.mp4)
 
 ---
 
@@ -95,9 +93,7 @@ User Input → Frontend → Backend API → TTS Engine → Audio → Frontend Pl
 
 ## 📸 Screenshot
 
-| Dashboard                     | 
-| ------------------------------- | 
-| ![Input](Screenshots/test1-1.png) |
+<table> <tr> <td><strong>Dashboard</strong></td> </tr> <tr> <td><img src="App2_Self-Deployed_OpenSource_TTS/App2.png" alt="App2 Screenshot" width="500"/></td> </tr> </table>
 
 > 
 ---
@@ -105,7 +101,7 @@ User Input → Frontend → Backend API → TTS Engine → Audio → Frontend Pl
 ## 🎬 Video Demo
 
 App2 in action:  
-[Demo Video](Screenshots/Demo.mp4)
+[Demo Video](App2_Self-Deployed_OpenSource_TTS/App2.mp4)
 
 ---
 
