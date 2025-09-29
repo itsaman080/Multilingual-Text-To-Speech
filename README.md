@@ -158,6 +158,20 @@ Multilingual-Text-To-Speech/
 
 ## Installation & Run
 
+
+## 🛠️ Clone the Repository
+
+Start by cloning this repository to your local machine:
+
+```bash
+git clone https://github.com/itsaman080/Multilingual-Text-To-Speech.git
+cd Multilingual-Text-To-Speech
+```
+
+>  Replace `your-username` with your actual GitHub username if you’re sharing the public link.
+
+---
+
 ### App1 (Browser TTS):
 
 ```bash
