@@ -1,0 +1,30 @@
+# /App1_BrowserSpeechSynthesis_TTS_API/node_modules
+# /App2_Self-Deployed_OpenSource_TTS/Frontend/node_modules
+# /env
+
+# Ignore node_modules anywhere
+node_modules/
+
+# Ignore environment folders and files anywhere
+env/
+.env/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# Optional: Ignore all mp4 files if you want to avoid pushing videos
+*.mp4
+
+# Ignore audio files
+App2_Self-Deployed_OpenSource_TTS/Backend/static/audio/*.wav
+
+# Ignore video files in specific project folders
+App1_BrowserSpeechSynthesis_TTS_API/*.mp4
+App2_Self-Deployed_OpenSource_TTS/*.mp4
