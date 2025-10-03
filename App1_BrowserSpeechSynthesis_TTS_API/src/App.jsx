@@ -105,7 +105,7 @@ export default function App() {
   };
 
   return (
-    <div style={{ padding: "20px", fontFamily: "Arial" }}>
+    <div style={{ padding: "20px", fontFamily: "Arial", backgroundColor: "yellow" }}>
       <h1>Multilingual Text-to-Speech (SpeechSynthesis API)</h1>
       <p>
         adding new para for feature/adding-line PR
